@@ -24,9 +24,25 @@ void print_diagonal(int n)
 
 	{
 
-		_putchar(' ');
+		i = c;
 
-		i--;
+		while (i > 0)
+
+		{
+
+			_putchar(' ');
+
+			i--;
+
+		}
+
+		_putchar('\\');
+
+		_putchar('\n');
+
+		c++;
+
+		n--;
 
 	}
 
