@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/**
- * add one line to the code at line 19
- * so that the code prints a[2] = 98,
- * followed by a new line
- */
-
 int main(void)
 {
 	int n;
