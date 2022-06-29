@@ -1,13 +1,11 @@
 #include <stdio.h>
-
 /**
  * main - entry point
- * @argc - number of arguments
+ * @argc: number of arguments
  * @argv: an array consisting arguments
  *
  * Return: 0
  */
-
 int main(int argc, char **argv)
 {
 	(void)argv;
