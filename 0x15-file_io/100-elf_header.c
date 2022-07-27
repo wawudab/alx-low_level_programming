@@ -9,7 +9,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdio.h>
-#include <stdlib.>
+#include <stdlib.h>
 
 void check_elf(unsigned char *e_ident);
 void print_magic(unsigned char *e_ident);
